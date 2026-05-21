@@ -21,6 +21,14 @@
       "logoURI": "https://tokens.pancakeswap.finance/images/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82.png"
     },
     {
+      "name": "BitFarmCoin",
+      "symbol": "BITF",
+      "address": "0x592FAb62c404AeEdc96D2f0b56b9438b844766F8",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://bitfarmcoin.com/coin.png"
+    },
+    {
       "name": "8PAY Network v2",
       "symbol": "8PAY v2",
       "address": "0x6EaDc05928ACd93eFB3FA0DFbC644D96C6Aa1Df8",
